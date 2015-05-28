@@ -1,5 +1,5 @@
 This is a demo
 how git works?
 I don't know...
-this is kinda cool
+this is kinda COOL
 that i'm working here on git
