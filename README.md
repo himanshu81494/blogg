@@ -1,7 +1,7 @@
 # blogg
 blogg
 description:
-  a simple blog content management system 
-  it is under development
-  right now not implemented as MVC (model view control) structure
-  updates will be provided soon
+  <br>a simple blog content management system 
+  <br>it is under development
+  <br>right now not implemented as MVC (model view control) structure
+  <br>updates will be provided soon
