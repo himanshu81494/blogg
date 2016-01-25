@@ -7,8 +7,8 @@ description:
   <br>updates will be provided soon
 
 todo:
- - [] implement cookie login etc
- - [] implement google auth..
- - [] social media login
- - [] improve database structure (lot to be done)
- - [*] improve user interface
+ - [ ] implement cookie login etc
+ - [ ] implement google auth..
+ - [ ] social media login
+ - [ ] improve database structure (lot to be done)
+ - [x] improve user interface
